@@ -1,0 +1,12 @@
+{
+  "recording_date": "Recording Date",
+  "doc_type": "Document Type",
+  "lender_name": "Lender Name",
+  "borrower_name": "Borrower Name",
+  "property_address": "Property Address",
+  "property_city": "City",
+  "property_state": "State",
+  "property_zip": "Zip",
+  "loan_amount": "Loan Amount",
+  "apn": "APN"
+}

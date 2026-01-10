@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+temp_extract/
+*.zip
+*.pdf
+
+# Output files - exclude large CSV files that exceed GitHub limits
+output/note_leads_mail_ready.csv
+output/note_leads_email_ready.csv
+output/prop_clean.csv
+# Uncomment below to exclude all output CSVs
+# output/*.csv
+

@@ -1,0 +1,5 @@
+Recording Date,Document Type,Lender Name,Borrower Name,Property Address,City,State,Zip,Loan Amount,APN,lender_type,classification_reason
+2015-03-15,DEED OF TRUST,"SMITH, JOHN","JONES, MARY",123 MAIN ST,AUSTIN,TX,78704,125000,000000100008,PERSON,Meets all criteria for private note lead
+2020-08-22,PURCHASE MONEY NOTE,JOHNSON LLC,"WILLIAMS, ROBERT",456 OAK AVE,AUSTIN,TX,78705,350000,000000100012,LLC,Meets all criteria for private note lead
+2012-05-30,DEED OF TRUST,"BROWN, MICHAEL","WILSON, JAMES",321 PINE RD,AUSTIN,TX,78702,275000,000000100018,PERSON,Meets all criteria for private note lead
+2019-04-12,SELLER FINANCE,"TAYLOR, DAVID","ANDERSON, LISA",654 MAPLE DR,AUSTIN,TX,78703,180000,000000100020,PERSON,Meets all criteria for private note lead

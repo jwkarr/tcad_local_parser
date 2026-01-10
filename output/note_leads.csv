@@ -1,0 +1,5 @@
+Recording Date,Document Type,Lender Name,Borrower Name,Property Address,City,State,Zip,Loan Amount,APN,classification_reason,tcad_owner_name,tcad_situs_address,tcad_situs_city,tcad_situs_state,tcad_situs_zip
+2015-03-15,DEED OF TRUST,"SMITH, JOHN","JONES, MARY",123 MAIN ST,AUSTIN,TX,78704,125000,000000100008,Meets all criteria for seller-finance note lead,DJB INVESTMENT PROPERTY LLC,S LAMAR BLVD,,TX,78704
+2020-08-22,PURCHASE MONEY NOTE,JOHNSON LLC,"WILLIAMS, ROBERT",456 OAK AVE,AUSTIN,TX,78705,350000,000000100012,Meets all criteria for seller-finance note lead,1219 SOUTH LAMAR VENTURE LLC,S LAMAR BLVD,,CA,78704
+2012-05-30,DEED OF TRUST,"BROWN, MICHAEL","WILSON, JAMES",321 PINE RD,AUSTIN,TX,78702,275000,000000100018,Meets all criteria for seller-finance note lead,7-ELEVEN INC,S LAMAR BLVD,,AZ,78704
+2019-04-12,SELLER FINANCE,"TAYLOR, DAVID","ANDERSON, LISA",654 MAPLE DR,AUSTIN,TX,78703,180000,000000100020,Meets all criteria for seller-finance note lead,GSGB L P,S LAMAR BLVD,,TX,78704
